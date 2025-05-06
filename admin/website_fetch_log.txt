@@ -1,0 +1,269 @@
+[2025-04-23 06:56:47] 开始处理请求
+[2025-04-23 06:56:47] 处理URL: https://www.crash.work
+[2025-04-23 06:56:47] 创建目录: C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-23/www.crash.work/
+[2025-04-23 06:56:47] 获取网站内容
+[2025-04-23 06:56:47] 使用cURL获取内容
+[2025-04-23 06:56:48] cURL请求状态码: 200
+[2025-04-23 06:56:48] 成功获取网站内容，提取信息
+[2025-04-23 06:56:48] 提取标题结果: 首页 - 破碎工坊云计算
+[2025-04-23 06:56:48] 开始提取favicon
+[2025-04-23 06:56:48] 从HTML提取到favicon链接: /themes/web/www/upload/local671eb5cd96805.ico
+[2025-04-23 06:56:48] 转换favicon为绝对路径: https://www.crash.work/themes/web/www/upload/local671eb5cd96805.ico
+[2025-04-23 06:56:48] 尝试下载favicon到: C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-23/www.crash.work/favicon.ico
+[2025-04-23 06:56:48] 尝试下载文件: https://www.crash.work/themes/web/www/upload/local671eb5cd96805.ico
+[2025-04-23 06:56:48] 使用cURL下载文件
+[2025-04-23 06:56:48] 文件下载成功: https://www.crash.work/themes/web/www/upload/local671eb5cd96805.ico 到 C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-23/www.crash.work/favicon.ico
+[2025-04-23 06:56:48] favicon下载成功
+[2025-04-23 06:56:48] 提取图标结果: 成功
+[2025-04-23 06:56:48] 开始创建截图
+[2025-04-23 06:56:48] 使用mshots服务获取截图: https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.crash.work?w=600&h=400
+[2025-04-23 06:56:48] 尝试下载截图到: C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-23/www.crash.work/screenshot.jpg
+[2025-04-23 06:56:48] 尝试下载文件: https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.crash.work?w=600&h=400
+[2025-04-23 06:56:48] 使用cURL下载文件
+[2025-04-23 06:56:48] 文件下载成功: https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.crash.work?w=600&h=400 到 C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-23/www.crash.work/screenshot.jpg
+[2025-04-23 06:56:48] 截图下载成功
+[2025-04-23 06:56:48] 无法创建图像资源: C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-23/www.crash.work/screenshot.jpg
+[2025-04-23 06:56:48] 创建截图结果: 1张
+[2025-04-23 06:56:48] 无法创建图像资源: C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-23/www.crash.work/screenshot.jpg
+[2025-04-23 06:56:48] 开始提取网站描述
+[2025-04-23 06:56:48] 从meta标签提取到描述: 破碎工坊云，作为专业的云计算服务平台，致力于为用户提供高效、稳定、安全的云计算解决方案。我们拥有丰富的行业经验，以及先进的技术实力，能够满足各类企业在云计算方面的需求。通过破碎工坊云，您可以轻松实现数据存储、数据分析、网站托管等多项服务，助力您的业务快速发展。
+[2025-04-23 06:56:48] 处理成功，返回结果
+[2025-04-23 06:56:50] 开始处理请求
+[2025-04-23 06:56:50] 处理URL: https://www.crash.work
+[2025-04-23 06:56:50] 获取网站内容
+[2025-04-23 06:56:50] 使用cURL获取内容
+[2025-04-23 06:56:51] cURL请求状态码: 200
+[2025-04-23 06:56:51] 成功获取网站内容，提取信息
+[2025-04-23 06:56:51] 提取标题结果: 首页 - 破碎工坊云计算
+[2025-04-23 06:56:51] 开始提取favicon
+[2025-04-23 06:56:51] 从HTML提取到favicon链接: /themes/web/www/upload/local671eb5cd96805.ico
+[2025-04-23 06:56:51] 转换favicon为绝对路径: https://www.crash.work/themes/web/www/upload/local671eb5cd96805.ico
+[2025-04-23 06:56:51] 尝试下载favicon到: C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-23/www.crash.work/favicon.ico
+[2025-04-23 06:56:51] 尝试下载文件: https://www.crash.work/themes/web/www/upload/local671eb5cd96805.ico
+[2025-04-23 06:56:51] 使用cURL下载文件
+[2025-04-23 06:56:51] 文件下载成功: https://www.crash.work/themes/web/www/upload/local671eb5cd96805.ico 到 C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-23/www.crash.work/favicon.ico
+[2025-04-23 06:56:51] favicon下载成功
+[2025-04-23 06:56:51] 提取图标结果: 成功
+[2025-04-23 06:56:51] 开始创建截图
+[2025-04-23 06:56:51] 使用mshots服务获取截图: https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.crash.work?w=600&h=400
+[2025-04-23 06:56:51] 尝试下载截图到: C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-23/www.crash.work/screenshot.jpg
+[2025-04-23 06:56:51] 尝试下载文件: https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.crash.work?w=600&h=400
+[2025-04-23 06:56:51] 使用cURL下载文件
+[2025-04-23 06:56:52] 文件下载成功: https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.crash.work?w=600&h=400 到 C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-23/www.crash.work/screenshot.jpg
+[2025-04-23 06:56:52] 截图下载成功
+[2025-04-23 06:56:52] 成功转换为WebP，压缩率: 77.74%
+[2025-04-23 06:56:52] 截图已转换为WebP格式: /uploads/websites/2025-04-23/www.crash.work/screenshot.webp
+[2025-04-23 06:56:52] 创建截图结果: 1张
+[2025-04-23 06:56:52] 开始提取网站描述
+[2025-04-23 06:56:52] 从meta标签提取到描述: 破碎工坊云，作为专业的云计算服务平台，致力于为用户提供高效、稳定、安全的云计算解决方案。我们拥有丰富的行业经验，以及先进的技术实力，能够满足各类企业在云计算方面的需求。通过破碎工坊云，您可以轻松实现数据存储、数据分析、网站托管等多项服务，助力您的业务快速发展。
+[2025-04-23 06:56:52] 处理成功，返回结果
+[2025-04-23 06:59:32] 开始处理请求
+[2025-04-23 06:59:32] 处理URL: https://www.crash.work
+[2025-04-23 06:59:32] 创建目录: C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-23/www.crash.work/
+[2025-04-23 06:59:32] 获取网站内容
+[2025-04-23 06:59:32] 使用cURL获取内容
+[2025-04-23 06:59:32] cURL请求状态码: 200
+[2025-04-23 06:59:32] 成功获取网站内容，提取信息
+[2025-04-23 06:59:32] 提取标题结果: 首页 - 破碎工坊云计算
+[2025-04-23 06:59:32] 开始提取favicon
+[2025-04-23 06:59:32] 从HTML提取到favicon链接: /themes/web/www/upload/local671eb5cd96805.ico
+[2025-04-23 06:59:32] 转换favicon为绝对路径: https://www.crash.work/themes/web/www/upload/local671eb5cd96805.ico
+[2025-04-23 06:59:32] 尝试下载favicon到: C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-23/www.crash.work/favicon.ico
+[2025-04-23 06:59:32] 尝试下载文件: https://www.crash.work/themes/web/www/upload/local671eb5cd96805.ico
+[2025-04-23 06:59:32] 使用cURL下载文件
+[2025-04-23 06:59:32] 文件下载成功: https://www.crash.work/themes/web/www/upload/local671eb5cd96805.ico 到 C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-23/www.crash.work/favicon.ico
+[2025-04-23 06:59:32] favicon下载成功
+[2025-04-23 06:59:32] 提取图标结果: 成功
+[2025-04-23 06:59:32] 开始创建截图
+[2025-04-23 06:59:32] 使用mshots服务获取截图: https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.crash.work?w=600&h=400
+[2025-04-23 06:59:32] 尝试下载截图到: C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-23/www.crash.work/screenshot.jpg
+[2025-04-23 06:59:32] 尝试下载文件: https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.crash.work?w=600&h=400
+[2025-04-23 06:59:32] 使用cURL下载文件
+[2025-04-23 06:59:33] 文件下载成功: https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.crash.work?w=600&h=400 到 C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-23/www.crash.work/screenshot.jpg
+[2025-04-23 06:59:33] 截图下载成功
+[2025-04-23 06:59:33] 成功转换为WebP，压缩率: 77.74%
+[2025-04-23 06:59:33] 截图已转换为WebP格式: /uploads/websites/2025-04-23/www.crash.work/screenshot.webp
+[2025-04-23 06:59:33] 创建截图结果: 1张
+[2025-04-23 06:59:33] 开始提取网站描述
+[2025-04-23 06:59:33] 从meta标签提取到描述: 破碎工坊云，作为专业的云计算服务平台，致力于为用户提供高效、稳定、安全的云计算解决方案。我们拥有丰富的行业经验，以及先进的技术实力，能够满足各类企业在云计算方面的需求。通过破碎工坊云，您可以轻松实现数据存储、数据分析、网站托管等多项服务，助力您的业务快速发展。
+[2025-04-23 06:59:33] 处理成功，返回结果
+[2025-04-23 07:58:39] 开始处理请求
+[2025-04-23 07:58:39] 处理URL: https://datalix.de
+[2025-04-23 07:58:39] 创建目录: C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-23/datalix.de/
+[2025-04-23 07:58:39] 获取网站内容
+[2025-04-23 07:58:39] 使用cURL获取内容
+[2025-04-23 07:58:40] cURL请求状态码: 200
+[2025-04-23 07:58:40] 成功获取网站内容，提取信息
+[2025-04-23 07:58:40] 提取标题结果: Datalix - Sicher, schnell und zuverlässig
+[2025-04-23 07:58:40] 开始提取favicon
+[2025-04-23 07:58:40] 从HTML提取到favicon链接: https://cdn.datalix.de/favicon.ico
+[2025-04-23 07:58:40] 尝试下载favicon到: C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-23/datalix.de/favicon.ico
+[2025-04-23 07:58:40] 尝试下载文件: https://cdn.datalix.de/favicon.ico
+[2025-04-23 07:58:40] 使用cURL下载文件
+[2025-04-23 07:58:42] 文件下载成功: https://cdn.datalix.de/favicon.ico 到 C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-23/datalix.de/favicon.ico
+[2025-04-23 07:58:42] favicon下载成功
+[2025-04-23 07:58:42] 提取图标结果: 成功
+[2025-04-23 07:58:42] 开始创建截图
+[2025-04-23 07:58:42] 使用mshots服务获取截图: https://s0.wp.com/mshots/v1/https%3A%2F%2Fdatalix.de?w=600&h=400
+[2025-04-23 07:58:42] 尝试下载截图到: C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-23/datalix.de/screenshot.jpg
+[2025-04-23 07:58:42] 尝试下载文件: https://s0.wp.com/mshots/v1/https%3A%2F%2Fdatalix.de?w=600&h=400
+[2025-04-23 07:58:42] 使用cURL下载文件
+[2025-04-23 07:58:42] 文件下载成功: https://s0.wp.com/mshots/v1/https%3A%2F%2Fdatalix.de?w=600&h=400 到 C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-23/datalix.de/screenshot.jpg
+[2025-04-23 07:58:42] 截图下载成功
+[2025-04-23 07:58:42] 无法创建图像资源: C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-23/datalix.de/screenshot.jpg
+[2025-04-23 07:58:42] 创建截图结果: 1张
+[2025-04-23 07:58:42] 无法创建图像资源: C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-23/datalix.de/screenshot.jpg
+[2025-04-23 07:58:42] 开始提取网站描述
+[2025-04-23 07:58:42] 从meta标签提取到描述: Datalix bietet eine Reihe von Hosting-Lösungen von Shared Hosting bis hin zu dedizierten Servern.
+[2025-04-23 07:58:42] 处理成功，返回结果
+[2025-04-23 07:58:47] 开始处理请求
+[2025-04-23 07:58:47] 处理URL: https://datalix.de
+[2025-04-23 07:58:47] 获取网站内容
+[2025-04-23 07:58:47] 使用cURL获取内容
+[2025-04-23 07:58:48] cURL请求状态码: 200
+[2025-04-23 07:58:48] 成功获取网站内容，提取信息
+[2025-04-23 07:58:48] 提取标题结果: Datalix - Sicher, schnell und zuverlässig
+[2025-04-23 07:58:48] 开始提取favicon
+[2025-04-23 07:58:48] 从HTML提取到favicon链接: https://cdn.datalix.de/favicon.ico
+[2025-04-23 07:58:48] 尝试下载favicon到: C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-23/datalix.de/favicon.ico
+[2025-04-23 07:58:48] 尝试下载文件: https://cdn.datalix.de/favicon.ico
+[2025-04-23 07:58:48] 使用cURL下载文件
+[2025-04-23 07:58:49] 文件下载成功: https://cdn.datalix.de/favicon.ico 到 C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-23/datalix.de/favicon.ico
+[2025-04-23 07:58:49] favicon下载成功
+[2025-04-23 07:58:49] 提取图标结果: 成功
+[2025-04-23 07:58:49] 开始创建截图
+[2025-04-23 07:58:49] 使用mshots服务获取截图: https://s0.wp.com/mshots/v1/https%3A%2F%2Fdatalix.de?w=600&h=400
+[2025-04-23 07:58:49] 尝试下载截图到: C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-23/datalix.de/screenshot.jpg
+[2025-04-23 07:58:49] 尝试下载文件: https://s0.wp.com/mshots/v1/https%3A%2F%2Fdatalix.de?w=600&h=400
+[2025-04-23 07:58:49] 使用cURL下载文件
+[2025-04-23 07:58:50] 文件下载成功: https://s0.wp.com/mshots/v1/https%3A%2F%2Fdatalix.de?w=600&h=400 到 C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-23/datalix.de/screenshot.jpg
+[2025-04-23 07:58:50] 截图下载成功
+[2025-04-23 07:58:50] 成功转换为WebP，压缩率: 57.98%
+[2025-04-23 07:58:50] 截图已转换为WebP格式: /uploads/websites/2025-04-23/datalix.de/screenshot.webp
+[2025-04-23 07:58:50] 创建截图结果: 1张
+[2025-04-23 07:58:50] 开始提取网站描述
+[2025-04-23 07:58:50] 从meta标签提取到描述: Datalix bietet eine Reihe von Hosting-Lösungen von Shared Hosting bis hin zu dedizierten Servern.
+[2025-04-23 07:58:50] 处理成功，返回结果
+[2025-04-23 09:15:41] 开始处理请求
+[2025-04-23 09:15:41] 处理URL: https://www.dalao.net
+[2025-04-23 09:15:41] 创建目录: C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-23/www.dalao.net/
+[2025-04-23 09:15:41] 获取网站内容
+[2025-04-23 09:15:41] 使用cURL获取内容
+[2025-04-23 09:15:43] cURL请求状态码: 200
+[2025-04-23 09:15:43] 成功获取网站内容，提取信息
+[2025-04-23 09:15:43] 提取标题结果: 大佬论坛
+[2025-04-23 09:15:43] 开始提取favicon
+[2025-04-23 09:15:43] 从HTML提取到favicon链接: view/img/favicon.ico
+[2025-04-23 09:15:43] 转换favicon为绝对路径: https://www.dalao.net/view/img/favicon.ico
+[2025-04-23 09:15:43] 尝试下载favicon到: C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-23/www.dalao.net/favicon.ico
+[2025-04-23 09:15:43] 尝试下载文件: https://www.dalao.net/view/img/favicon.ico
+[2025-04-23 09:15:43] 使用cURL下载文件
+[2025-04-23 09:15:44] 文件下载成功: https://www.dalao.net/view/img/favicon.ico 到 C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-23/www.dalao.net/favicon.ico
+[2025-04-23 09:15:44] favicon下载成功
+[2025-04-23 09:15:44] 提取图标结果: 成功
+[2025-04-23 09:15:44] 开始创建截图
+[2025-04-23 09:15:44] 使用mshots服务获取截图: https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.dalao.net?w=600&h=400
+[2025-04-23 09:15:44] 尝试下载截图到: C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-23/www.dalao.net/screenshot.jpg
+[2025-04-23 09:15:44] 尝试下载文件: https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.dalao.net?w=600&h=400
+[2025-04-23 09:15:44] 使用cURL下载文件
+[2025-04-23 09:15:45] 文件下载成功: https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.dalao.net?w=600&h=400 到 C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-23/www.dalao.net/screenshot.jpg
+[2025-04-23 09:15:45] 截图下载成功
+[2025-04-23 09:15:45] 成功转换为WebP，压缩率: 68.65%
+[2025-04-23 09:15:45] 截图已转换为WebP格式: /uploads/websites/2025-04-23/www.dalao.net/screenshot.webp
+[2025-04-23 09:15:45] 创建截图结果: 1张
+[2025-04-23 09:15:45] 开始提取网站描述
+[2025-04-23 09:15:45] 从meta标签提取到描述: 站长论坛，收集各路资源福利、主题插件，服务器主机、域名行情等内容。TG 群：@dalaonet
+[2025-04-23 09:15:45] 处理成功，返回结果
+[2025-04-27 20:18:42] 开始处理请求
+[2025-04-27 20:18:42] 处理URL: https://www.itdog.cn
+[2025-04-27 20:18:42] 创建目录: C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-27/www.itdog.cn/
+[2025-04-27 20:18:42] 获取网站内容
+[2025-04-27 20:18:42] 使用cURL获取内容
+[2025-04-27 20:18:42] cURL请求状态码: 200
+[2025-04-27 20:18:42] 成功获取网站内容，提取信息
+[2025-04-27 20:18:42] 提取标题结果: ITDOG - 在线ping_在线tcping_网站测速_HTTP测速_API测速_路由追踪_在线MTR_DNS查询_ITDOG-云邦畅想
+[2025-04-27 20:18:42] 开始提取favicon
+[2025-04-27 20:18:42] 从HTML提取到favicon链接: /favicon.ico
+[2025-04-27 20:18:42] 转换favicon为绝对路径: https://www.itdog.cn/favicon.ico
+[2025-04-27 20:18:42] 尝试下载favicon到: C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-27/www.itdog.cn/favicon.ico
+[2025-04-27 20:18:42] 尝试下载文件: https://www.itdog.cn/favicon.ico
+[2025-04-27 20:18:42] 使用cURL下载文件
+[2025-04-27 20:18:42] 文件下载成功: https://www.itdog.cn/favicon.ico 到 C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-27/www.itdog.cn/favicon.ico
+[2025-04-27 20:18:42] favicon下载成功
+[2025-04-27 20:18:42] 提取图标结果: 成功
+[2025-04-27 20:18:42] 开始创建截图
+[2025-04-27 20:18:42] 使用mshots服务获取截图: https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.itdog.cn?w=600&h=400
+[2025-04-27 20:18:42] 尝试下载截图到: C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-27/www.itdog.cn/screenshot.jpg
+[2025-04-27 20:18:42] 尝试下载文件: https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.itdog.cn?w=600&h=400
+[2025-04-27 20:18:42] 使用cURL下载文件
+[2025-04-27 20:18:43] 文件下载成功: https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.itdog.cn?w=600&h=400 到 C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-27/www.itdog.cn/screenshot.jpg
+[2025-04-27 20:18:43] 截图下载成功
+[2025-04-27 20:18:43] 成功转换为WebP，压缩率: 59.69%
+[2025-04-27 20:18:43] 截图已转换为WebP格式: /uploads/websites/2025-04-27/www.itdog.cn/screenshot.webp
+[2025-04-27 20:18:43] 创建截图结果: 1张
+[2025-04-27 20:18:43] 开始提取网站描述
+[2025-04-27 20:18:43] 从meta标签提取到描述: 本站为IT运维人员提供实用的工具，多地ping测试、多地tcping测试、网站测速、HTTP测速、API测速、路由追踪、在线MTR 、DNS查询等。
+[2025-04-27 20:18:43] 处理成功，返回结果
+[2025-04-27 20:19:18] 开始处理请求
+[2025-04-27 20:19:18] 处理URL: https://www.cursor.com/
+[2025-04-27 20:19:18] 创建目录: C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-27/www.cursor.com/
+[2025-04-27 20:19:18] 获取网站内容
+[2025-04-27 20:19:18] 使用cURL获取内容
+[2025-04-27 20:19:19] cURL请求状态码: 200
+[2025-04-27 20:19:19] 成功获取网站内容，提取信息
+[2025-04-27 20:19:19] 提取标题结果: Cursor - The AI Code Editor
+[2025-04-27 20:19:19] 开始提取favicon
+[2025-04-27 20:19:19] 从HTML提取到favicon链接: /favicon-48x48.png
+[2025-04-27 20:19:19] 转换favicon为绝对路径: https://www.cursor.com/favicon-48x48.png
+[2025-04-27 20:19:19] 尝试下载favicon到: C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-27/www.cursor.com/favicon.png
+[2025-04-27 20:19:19] 尝试下载文件: https://www.cursor.com/favicon-48x48.png
+[2025-04-27 20:19:19] 使用cURL下载文件
+[2025-04-27 20:19:20] 文件下载成功: https://www.cursor.com/favicon-48x48.png 到 C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-27/www.cursor.com/favicon.png
+[2025-04-27 20:19:20] favicon下载成功
+[2025-04-27 20:19:20] 成功转换为WebP，压缩率: 60.54%
+[2025-04-27 20:19:20] favicon已转换为WebP格式: /uploads/websites/2025-04-27/www.cursor.com/favicon.webp
+[2025-04-27 20:19:20] 提取图标结果: 成功
+[2025-04-27 20:19:20] 开始创建截图
+[2025-04-27 20:19:20] 使用mshots服务获取截图: https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.cursor.com%2F?w=600&h=400
+[2025-04-27 20:19:20] 尝试下载截图到: C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-27/www.cursor.com/screenshot.jpg
+[2025-04-27 20:19:20] 尝试下载文件: https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.cursor.com%2F?w=600&h=400
+[2025-04-27 20:19:20] 使用cURL下载文件
+[2025-04-27 20:19:20] 文件下载成功: https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.cursor.com%2F?w=600&h=400 到 C:\EServer\core\www\localhost\admin/../uploads/websites/2025-04-27/www.cursor.com/screenshot.jpg
+[2025-04-27 20:19:20] 截图下载成功
+[2025-04-27 20:19:20] 成功转换为WebP，压缩率: 66.54%
+[2025-04-27 20:19:20] 截图已转换为WebP格式: /uploads/websites/2025-04-27/www.cursor.com/screenshot.webp
+[2025-04-27 20:19:20] 创建截图结果: 1张
+[2025-04-27 20:19:20] 开始提取网站描述
+[2025-04-27 20:19:20] 从meta标签提取到描述: Built to make you extraordinarily productive, Cursor is the best way to code with AI.
+[2025-04-27 20:19:20] 处理成功，返回结果
+[2025-05-06 17:25:35] 开始处理请求
+[2025-05-06 17:25:35] 处理URL: https://www.szhdy.com/
+[2025-05-06 17:25:35] 创建目录: C:\EServer\core\www\localhost\admin/../uploads/websites/2025-05-06/www.szhdy.com/
+[2025-05-06 17:25:35] 获取网站内容
+[2025-05-06 17:25:35] 使用cURL获取内容
+[2025-05-06 17:25:37] cURL请求状态码: 200
+[2025-05-06 17:25:37] 成功获取网站内容，提取信息
+[2025-05-06 17:25:37] 提取标题结果: 狐蒂云计算平台
+[2025-05-06 17:25:37] 开始提取favicon
+[2025-05-06 17:25:37] 从HTML提取到favicon链接: /themes/web/www/upload/local680dfacc68ef5.png
+[2025-05-06 17:25:37] 转换favicon为绝对路径: https://www.szhdy.com/themes/web/www/upload/local680dfacc68ef5.png
+[2025-05-06 17:25:37] 尝试下载favicon到: C:\EServer\core\www\localhost\admin/../uploads/websites/2025-05-06/www.szhdy.com/favicon.png
+[2025-05-06 17:25:37] 尝试下载文件: https://www.szhdy.com/themes/web/www/upload/local680dfacc68ef5.png
+[2025-05-06 17:25:37] 使用cURL下载文件
+[2025-05-06 17:25:37] 文件下载成功: https://www.szhdy.com/themes/web/www/upload/local680dfacc68ef5.png 到 C:\EServer\core\www\localhost\admin/../uploads/websites/2025-05-06/www.szhdy.com/favicon.png
+[2025-05-06 17:25:37] favicon下载成功
+[2025-05-06 17:25:37] WebP转换后体积更大，保留原始文件: C:\EServer\core\www\localhost\admin/../uploads/websites/2025-05-06/www.szhdy.com/favicon.png
+[2025-05-06 17:25:37] 提取图标结果: 成功
+[2025-05-06 17:25:37] 开始创建截图
+[2025-05-06 17:25:37] 使用mshots服务获取截图: https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.szhdy.com%2F?w=600&h=400
+[2025-05-06 17:25:37] 尝试下载截图到: C:\EServer\core\www\localhost\admin/../uploads/websites/2025-05-06/www.szhdy.com/screenshot.jpg
+[2025-05-06 17:25:37] 尝试下载文件: https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.szhdy.com%2F?w=600&h=400
+[2025-05-06 17:25:37] 使用cURL下载文件
+[2025-05-06 17:25:38] 文件下载成功: https://s0.wp.com/mshots/v1/https%3A%2F%2Fwww.szhdy.com%2F?w=600&h=400 到 C:\EServer\core\www\localhost\admin/../uploads/websites/2025-05-06/www.szhdy.com/screenshot.jpg
+[2025-05-06 17:25:38] 截图下载成功
+[2025-05-06 17:25:38] 成功转换为WebP，压缩率: 74.15%
+[2025-05-06 17:25:38] 截图已转换为WebP格式: /uploads/websites/2025-05-06/www.szhdy.com/screenshot.webp
+[2025-05-06 17:25:38] 创建截图结果: 1张
+[2025-05-06 17:25:38] 开始提取网站描述
+[2025-05-06 17:25:38] 从meta标签提取到描述: 
+[2025-05-06 17:25:38] 处理成功，返回结果
